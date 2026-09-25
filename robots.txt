@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.aayaclv.cn/sitemap.xml
